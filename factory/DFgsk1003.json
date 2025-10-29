@@ -1,0 +1,9 @@
+{
+	"name": "DFgsk1003",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "22021447-ffbe-465e-8511-a59f92d1d8d7",
+		"tenantId": "734bc3b3-5f14-49f7-a817-85c51014064d"
+	}
+}
